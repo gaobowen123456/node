@@ -1,0 +1,23 @@
+{
+  "name": "test_gbw",
+  "version": "0.0.1",
+  "description": "npm 测试",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test_gbw",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hh"
+  },
+  "keywords": [
+    "hh"
+  ],
+  "author": "gaobw1",
+  "license": "ISC"
+}
